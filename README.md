@@ -1,4 +1,3 @@
-> 没看完指看了全书内容20%-80%
 # 2019之前
 - 深入理解Java虚拟机（第2版） : JVM高级特性与最佳实践 - 周志明 
 - Java并发编程实战 - Brian Goetz / Tim Peierls / Joshua Bloch / Joseph Bowbeer / David Holmes / Doug Lea 
