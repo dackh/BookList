@@ -23,3 +23,4 @@
 - 代码整洁之道 - [美] Robert C·Martin 
 - 大型网站技术架构：核心原理与案例分析 - 李智慧 
 - Kafka权威指南 - a Narkhede / Gwen Shapira / Todd Palino 
+- Spring揭秘 - 王福强
